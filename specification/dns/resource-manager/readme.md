@@ -8,7 +8,7 @@ This is the AutoRest configuration file for DNS.
 
 ## Getting Started
 
-To build the SDK for DNS, simply [Install AutoRest](https://aka.ms/autorest/install) and in this folder, run:
+To Build the SDK for DNS, simply [Install AutoRest](https://aka.ms/autorest/install) and in this folder, run:
 
 > `autorest`
 
