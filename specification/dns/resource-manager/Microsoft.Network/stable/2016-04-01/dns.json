@@ -2,7 +2,7 @@
   "swagger": "2.0",
   "info": {
     "title": "DnsManagementClient",
-    "description": "The DNS Management Client.",
+    "description": "The DNS Management client.",
     "version": "2016-04-01"
   },
   "host": "management.azure.com",
