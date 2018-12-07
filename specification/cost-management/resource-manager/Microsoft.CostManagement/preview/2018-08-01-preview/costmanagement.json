@@ -2342,7 +2342,7 @@
           "description": "The granularity of rows in the report.",
           "type": "string",
           "enum": [
-            "Daily"
+            "Hourly"
           ],
           "x-ms-enum": {
             "name": "GranularityType",
