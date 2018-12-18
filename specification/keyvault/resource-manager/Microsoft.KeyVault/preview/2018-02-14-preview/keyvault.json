@@ -3,7 +3,7 @@
   "info": {
     "version": "2018-02-14-preview",
     "title": "KeyVaultManagementClient",
-    "description": "The Azure management API provides a RESTful set of web services that interact with Azure Key Vault."
+    "description": "The Azure Management API provides a RESTful set of web services that interact with Azure Key Vault."
   },
   "host": "management.azure.com",
   "schemes": [
